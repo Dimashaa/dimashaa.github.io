@@ -6,4 +6,4 @@ categories: Posts
 ---
 Max's code
 
-<img src="assets/images/CalPlot-YlGn.png" style="width: 100%">
+<img src="/assets/images/CalPlot-YlGn.png" style="width: 100%">
