@@ -10,13 +10,13 @@ The bustling city of San Francisco, known for its iconic Golden Gate Bridge and 
 
 <img src="/assets/images/part1.png" style="width: 100%">
 
-The Geography of the Night
+The Geography of the Night: 
 The bar charts present a striking picture of how prostitution is not just a city-wide issue, but one that is distinctly local, affected by the unique characteristics of each district. Let's zoom into this aspect of the crime tapestry and see how it complements and enhances the overarching narrative.
 
-A Lens into Locality
+A Lens into Locality: 
 The chosen visual plots the prevalence of 14 different crimes in each district, with a focus on prostitution. This graph paints a story of disparity, showing neighborhoods like the Tenderloin and Mission with ratios surpassing one, indicating a higher frequency of prostitution-related crimes, compared to the city average – possibly linked to economic factors, the sociocultural environment, or even the strategic locations that offer anonymity amidst the urban sprawl. In contrast, areas like Richmond and Sunset tell a quieter story, with rates falling below the city's heartbeat - perhaps indicating either successful policing strategies, community vigilance, or a lack of the factors that catalyze such crimes.
 
-The Impact of Place
+The Impact of Place: 
 Understanding that certain areas are more prone to prostitution can lead to targeted interventions. For instance, social services could be directed more efficiently, law enforcement can optimize their patrols, and community programs can be tailored to address the root causes.
 
 
