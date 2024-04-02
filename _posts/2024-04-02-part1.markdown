@@ -4,5 +4,5 @@ title:  "Part 1"
 date:   2024-04-02 18:02:06 +0200
 categories: Posts
 ---
-into
-<img src="/assets/images/CalPlot-YlGn.png" style="width: 100%">
+
+<img src="/assets/images/part1.png" style="width: 100%">

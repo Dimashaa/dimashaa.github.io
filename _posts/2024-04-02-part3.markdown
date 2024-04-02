@@ -7,6 +7,10 @@ categories: Posts
 Here is a multi-figure heatmap for all the prostitution population from year 2003 to 2013. Interestingly, by drawing the heatmap I found there was no record in prostitution data after 2014, which might be due to data shortage.
 
 <img src="/assets/images/Part2.png" style="width: 100%">
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
