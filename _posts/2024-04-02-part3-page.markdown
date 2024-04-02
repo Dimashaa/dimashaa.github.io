@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Part 3"
-date:   2024-04-02 18:30:06 +0200
-categories: Posts
----
-Max's code
-

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Part 1"
+date:   2024-04-02 18:00:06 +0200
+categories: Posts
+---
+Max's code
+
+<img src="images/CalPlot-YlGn.png" style="width: 100%">
