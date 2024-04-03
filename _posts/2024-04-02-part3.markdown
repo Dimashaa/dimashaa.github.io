@@ -1,7 +1,34 @@
 ---
 layout: post
 title:  "Part 3"
-date:   2024-04-02 18:00:06 +0200
+date:   2024-04-02 20:15:17 +0200
 categories: Posts
 ---
-*technical issues, Notebook cannot be attached. 
+
+Here we have 3 different, interactive plots showing how prostitution has always been a problem for San Francisco, but the amount of crimes defined as prostitution has gone down over the years. First, the jitter plot shows how prostitution has been a crime of the night. Most arrests for prostitution happen at night, where anyone needing the services of a prostitute is most likely to go out, trying to remain unseen. It also happens most often starting in the middle of the week, perhaps since many people tired of the workday go find release in a prostitute. 
+<iframe src="/assets/images/jitter_plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+In this second plot, we show the amount of arrests each year related to prostitution. We can see that the overall amount of prostitution crimes has gone down over the years. 
+<iframe src="/assets/images/Bar_chart.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+This third graph show the same tendency, but with notable spikes on certain days. Perhaps the police decided to change tactics, and raid specific streets on these days, catching many more, rather than patrol constantly, and then arresting less. 
+<iframe src="/assets/images/Range_plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
