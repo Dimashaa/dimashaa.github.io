@@ -5,19 +5,8 @@ date:   2024-04-02 18:01:06 +0200
 categories: Posts
 ---
 
-We divided individuals into two groups based on their mode of transportation: those who travel by car and those who use other transportation modes. An interactive plot was then created to examine differences in fare type, travel purpose, and the days of the week people travel.
-<iframe src="/assets/images/interactive_plot.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-Based on the interactive comparison plot, here we can see:
+Here is a multi-figure heatmap for all the prostitution population from year 2003 to 2013. Interestingly, by drawing the heatmap I found there was no record in prostitution data after 2014, which might be due to data shortage.
 
-Fare Type: The majority of travelers either pay full fare or travel for free. There are consistently more travelers in each category who choose other modes over traveling by car. Notably, there is a higher proportion of disabled individuals opting for modes other than cars.
+<img src="/assets/images/part2.png" style="width: 100%">
 
-Travel Purpose: A significant number of people travel for Home-Based Other (HBO) purposes. In every category, the number of individuals using modes other than cars exceeds those who travel by car.
-
-Day of the Week: Car users typically travel on weekends, with fewer choosing to travel on Mondays. Conversely, those who use other modes prefer to travel on weekdays, particularly on Fridays.
+Overall, based on the heatmap, we can see the population of prostitution in Northern is gradually decreasing while Mission always has the highest population for prostitution, which might be something the police should notice.
